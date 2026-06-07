@@ -1,0 +1,6 @@
+{
+  "name": "Generator Media Pembelajaran Interaktif",
+  "description": "Platform pembuat Media Pembelajaran Interaktif berbasis web yang dilengkapi dengan modul materi multimedia responsif dan generator kuis otomatis berbasis AI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
